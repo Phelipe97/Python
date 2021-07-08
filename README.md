@@ -1,2 +1,2 @@
 # Python
- trabalhos da faculdade
+ trabalhos de **python** feitos para faculdade.
